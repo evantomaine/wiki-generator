@@ -1,0 +1,6 @@
+{
+  "name": "WikiGen - PDF to Obsidian Wiki Generator",
+  "description": "Transform PDF documents into an interconnected Obsidian-compatible Markdown wiki with automatic concept extraction, OCR support, multilingual comprehension, and cross-referenced wikilinks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
